@@ -1,0 +1,50 @@
+#test
+{
+    width: 90%;
+    height: 700px;
+    margin: 0 auto;
+}
+h1
+{
+    text-align: center;
+}
+@media (max-width: 480px) 
+{
+    #test 
+    {
+        background-color: blue;
+    }
+    h1 {font-size: 48px;}
+}
+@media (min-width: 481px) and (max-width: 680px)
+{
+    #test
+    {
+        background-color: blueviolet;        
+    }
+    h1
+    {
+        font-size: 56px;
+    }
+    
+}
+@media (min-width: 681px) and (max-width: 980px)
+{
+    #test
+    {
+        background-color: green;        
+    }
+    h1
+    {
+        font-size: 60px;
+    }
+    
+}
+@media (min-width: 981px) 
+{
+    #test 
+    {
+        background-color: aquamarine;
+    }
+    h1 {font-size: 90px;}
+}
