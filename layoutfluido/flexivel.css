@@ -1,0 +1,93 @@
+#tudo
+{
+    width: 99%;
+    text-align: center;
+    float: left;
+    clear: left;
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+}
+header
+{
+    width: 45%;
+    height: 200px;
+    background-color: blue;
+    margin: 5px;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+    text-align: center;
+
+}
+nav
+{
+    width: 45%;
+    height: 200px;
+    background-color: red;
+    margin: 5px;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+
+}
+main
+{
+    width: 85%;
+    height: 700px;
+    text-align: center;
+    background-color: green;
+    margin-left: 7%;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+
+}
+#um
+{
+    width: 30%;
+    height: 600px;
+    background-color: aquamarine;
+    margin: 5px;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+
+} 
+#dois
+{
+    width: 30%;
+    height: 600px;
+    background-color: deepskyblue;
+    margin: 7px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+} 
+#tres
+{
+    width: 30%;
+    height: 600px;
+    background-color: lightblue;
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+} 
+footer
+{
+    width: 98.5%;
+    height: 200px;
+    background-color: yellow;
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+
+}

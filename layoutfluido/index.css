@@ -1,0 +1,87 @@
+#tudo
+{
+    width: 1200px;
+    text-align: center;
+    float: left;
+    clear: left;
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+}
+header
+{
+    width: 575px;
+    height: 200px;
+    background-color: blue;
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+    text-align: center;
+
+}
+nav
+{
+    width: 575px;
+    height: 200px;
+    background-color: red;
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+
+}
+main
+{
+    width: 1180px;
+    height: 500px;
+    text-align: center;
+    background-color: green;
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+
+}
+#um
+{
+    width: 350px;
+    height: 450px;
+    background-color: aquamarine;
+    margin: 8px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+
+} 
+#dois
+{
+    width: 350px;
+    height: 450px;
+    background-color: deepskyblue;
+    margin: 8px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+} 
+#tres
+{
+    width: 350px;
+    height: 450px;
+    background-color: lightblue;
+    margin: 8px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+} 
+footer
+{
+    width: 1180px;
+    height: 200px;
+    background-color: yellow;
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+
+}
